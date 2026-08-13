@@ -5,7 +5,7 @@
       "auto": "CRGTF00437052025",
       "processo": "50501.588340/2025-43",
       "empresa": "26.295.146/0001-03",
-      "tipo": "Piso Mínimo de Frete",
+      "tipo": "Piso MÃ­nimo de Frete",
       "placa": "OYK6J57 / MIS0E57",
       "prazo": "2026-01-12",
       "prazo_protocolo": "",
@@ -16,7 +16,7 @@
       "motorista": "Jose Noel da Silva Campos",
       "origem": "Ipojuca, PE",
       "destino": "Fortaleza, CE",
-      "obs": "Prazo vencido 68 dias antes da detecção interna.",
+      "obs": "Prazo vencido 68 dias antes da detecÃ§Ã£o interna.",
       "proxima_acao": "",
       "proxima_acao_data": "",
       "ano": 2025,
@@ -36,12 +36,12 @@
         },
         {
           "data": "2026-03-27",
-          "acao": "Indícios de pagamento abaixo do piso.",
+          "acao": "IndÃ­cios de pagamento abaixo do piso.",
           "autor": "Tales"
         },
         {
           "data": "2026-05-05",
-          "acao": "Jurídico conclui: sem fundamento para defesa. Prazo vencido em 04/05/2026.",
+          "acao": "JurÃ­dico conclui: sem fundamento para defesa. Prazo vencido em 04/05/2026.",
           "autor": "Tattianna"
         }
       ]
@@ -51,8 +51,8 @@
       "auto": "CRGVP00020372022",
       "processo": "50500.247149/2022-10",
       "empresa": "26.295.146/0004-48",
-      "tipo": "Vale Pedágio",
-      "placa": "—",
+      "tipo": "Vale PedÃ¡gio",
+      "placa": "â",
       "prazo": null,
       "prazo_protocolo": "",
       "num_protocolo": "",
@@ -62,7 +62,7 @@
       "motorista": "",
       "origem": "",
       "destino": "",
-      "obs": "2022 — status não confirmado.",
+      "obs": "2022 â status nÃ£o confirmado.",
       "proxima_acao": "",
       "proxima_acao_data": "",
       "ano": 2022,
@@ -81,7 +81,7 @@
       "auto": "FELTF00603722026",
       "processo": "50501.174831/2026-91",
       "empresa": "26.295.146/0004-48",
-      "tipo": "Piso Mínimo de Frete",
+      "tipo": "Piso MÃ­nimo de Frete",
       "placa": "EQU3J63",
       "prazo": "2026-05-04",
       "prazo_protocolo": "",
@@ -90,8 +90,8 @@
       "valor": 550,
       "responsavel": "Tales",
       "motorista": "Macioni Jose de Oliveira",
-      "origem": "Uberlândia, MG",
-      "destino": "São Paulo, SP",
+      "origem": "UberlÃ¢ndia, MG",
+      "destino": "SÃ£o Paulo, SP",
       "obs": "Prazo vencido sem defesa. Confirmar pagamento.",
       "proxima_acao": "Confirmar pagamento e encerrar formalmente",
       "proxima_acao_data": "2026-08-20",
@@ -99,9 +99,9 @@
       "ultima_mov": "2026-05-05",
       "checklist": {},
       "parecer": {
-        "enquadramento": "Art.9 I Res.5867/20 — frete pago abaixo do piso mínimo calculado para a rota.",
-        "tese": "Sem fundamento para contestação — diferença confirmada e documentada.",
-        "risco": "Baixo — sem perspectiva de êxito em recurso.",
+        "enquadramento": "Art.9 I Res.5867/20 â frete pago abaixo do piso mÃ­nimo calculado para a rota.",
+        "tese": "Sem fundamento para contestaÃ§Ã£o â diferenÃ§a confirmada e documentada.",
+        "risco": "Baixo â sem perspectiva de Ãªxito em recurso.",
         "recomendacao": "Pagamento"
       },
       "historico": [
@@ -112,7 +112,7 @@
         },
         {
           "data": "2026-05-05",
-          "acao": "Jurídico confirma: sem fundamento. Prazo vencido.",
+          "acao": "JurÃ­dico confirma: sem fundamento. Prazo vencido.",
           "autor": "Tattianna"
         }
       ]
@@ -122,8 +122,8 @@
       "auto": "FELTF02088352026",
       "processo": "50501.445762/2026-14",
       "empresa": "26.295.146/0006-00",
-      "tipo": "Piso Mínimo de Frete",
-      "placa": "—",
+      "tipo": "Piso MÃ­nimo de Frete",
+      "placa": "â",
       "prazo": null,
       "prazo_protocolo": "",
       "num_protocolo": "",
@@ -133,8 +133,8 @@
       "motorista": "",
       "origem": "",
       "destino": "",
-      "obs": "Dados incompletos — levantar valor, prazo e placa urgente.",
-      "proxima_acao": "Jurídico baixar auto completo no portal ANTT",
+      "obs": "Dados incompletos â levantar valor, prazo e placa urgente.",
+      "proxima_acao": "JurÃ­dico baixar auto completo no portal ANTT",
       "proxima_acao_data": "2026-08-14",
       "ano": 2026,
       "ultima_mov": "2026-08-04",
@@ -158,8 +158,8 @@
       "auto": "FELVP00779102026",
       "processo": "50501.499740/2026-66",
       "empresa": "26.295.146/0006-00",
-      "tipo": "Vale Pedágio",
-      "placa": "—",
+      "tipo": "Vale PedÃ¡gio",
+      "placa": "â",
       "prazo": null,
       "prazo_protocolo": "",
       "num_protocolo": "",
@@ -169,8 +169,8 @@
       "motorista": "",
       "origem": "",
       "destino": "",
-      "obs": "Dados incompletos — levantar prazo junto ao Jurídico.",
-      "proxima_acao": "Jurídico baixar auto e confirmar prazo",
+      "obs": "Dados incompletos â levantar prazo junto ao JurÃ­dico.",
+      "proxima_acao": "JurÃ­dico baixar auto e confirmar prazo",
       "proxima_acao_data": "2026-08-14",
       "ano": 2026,
       "ultima_mov": "2026-08-04",
@@ -194,7 +194,7 @@
       "auto": "CRGTF00012512026",
       "processo": "50501.395429/2026-49",
       "empresa": "41.879.012/0001-15",
-      "tipo": "Piso Mínimo de Frete",
+      "tipo": "Piso MÃ­nimo de Frete",
       "placa": "KKR5A84 / KJT1H89",
       "prazo": "2026-08-10",
       "prazo_protocolo": "2026-07-31",
@@ -205,25 +205,25 @@
       "motorista": "Mateus Silva de Andrade",
       "origem": "Ipojuca, PE",
       "destino": "Ipojuca, PE",
-      "obs": "Prazo ontem (10/08). Tese refutada pelo Jurídico em 14/07. Verificar protocolo urgente.",
-      "proxima_acao": "Gestão decidir: recorrer ou pagar",
+      "obs": "Prazo ontem (10/08). Tese refutada pelo JurÃ­dico em 14/07. Verificar protocolo urgente.",
+      "proxima_acao": "GestÃ£o decidir: recorrer ou pagar",
       "proxima_acao_data": "2026-08-12",
       "ano": 2026,
       "ultima_mov": "2026-07-14",
       "checklist": {
-        "Auto de infração (PDF)": true,
+        "Auto de infraÃ§Ã£o (PDF)": true,
         "CT-e ou CIOT": true,
         "MDF-e": true,
         "Comprovante de pagamento do frete": true,
         "Manifesto de carga": false,
-        "Contrato com transportador (se aplicável)": false,
-        "Certificado de Desembaraço (DTC) — operações portuárias": true
+        "Contrato com transportador (se aplicÃ¡vel)": false,
+        "Certificado de DesembaraÃ§o (DTC) â operaÃ§Ãµes portuÃ¡rias": true
       },
       "parecer": {
-        "enquadramento": "Art.9 V Res.5867/25 — não declaração do valor do frete em DTC/Ordem de Coleta.",
-        "tese": "Tese de operação fixa sem incidência do piso: REFUTADA pelo Jurídico (14/07/2026).",
-        "risco": "Alto — sem tese alternativa definida até o momento.",
-        "recomendacao": "Aguardando análise"
+        "enquadramento": "Art.9 V Res.5867/25 â nÃ£o declaraÃ§Ã£o do valor do frete em DTC/Ordem de Coleta.",
+        "tese": "Tese de operaÃ§Ã£o fixa sem incidÃªncia do piso: REFUTADA pelo JurÃ­dico (14/07/2026).",
+        "risco": "Alto â sem tese alternativa definida atÃ© o momento.",
+        "recomendacao": "Aguardando anÃ¡lise"
       },
       "historico": [
         {
@@ -233,17 +233,17 @@
         },
         {
           "data": "2026-05-29",
-          "acao": "Operação relata Certificado de Desembaraço disponível.",
+          "acao": "OperaÃ§Ã£o relata Certificado de DesembaraÃ§o disponÃ­vel.",
           "autor": "Ivanaldo"
         },
         {
           "data": "2026-06-01",
-          "acao": "Mauro instrui: recorrer, alegando operação fixa no PSS.",
+          "acao": "Mauro instrui: recorrer, alegando operaÃ§Ã£o fixa no PSS.",
           "autor": "Mauro"
         },
         {
           "data": "2026-07-14",
-          "acao": "Jurídico refuta formalmente a tese de não incidência. Sem tese alternativa registrada.",
+          "acao": "JurÃ­dico refuta formalmente a tese de nÃ£o incidÃªncia. Sem tese alternativa registrada.",
           "autor": "Leonardo"
         }
       ]
@@ -253,7 +253,7 @@
       "auto": "CRGTF00012602026",
       "processo": "50501.398564/2026-46",
       "empresa": "41.879.012/0001-15",
-      "tipo": "Piso Mínimo de Frete",
+      "tipo": "Piso MÃ­nimo de Frete",
       "placa": "KKY6I21",
       "prazo": "2026-07-20",
       "prazo_protocolo": "2026-07-10",
@@ -270,19 +270,19 @@
       "ano": 2026,
       "ultima_mov": "2026-07-14",
       "checklist": {
-        "Auto de infração (PDF)": true,
+        "Auto de infraÃ§Ã£o (PDF)": true,
         "CT-e ou CIOT": false,
         "MDF-e": true,
         "Comprovante de pagamento do frete": false,
         "Manifesto de carga": false,
-        "Contrato com transportador (se aplicável)": false,
-        "Certificado de Desembaraço (DTC) — operações portuárias": true
+        "Contrato com transportador (se aplicÃ¡vel)": false,
+        "Certificado de DesembaraÃ§o (DTC) â operaÃ§Ãµes portuÃ¡rias": true
       },
       "parecer": {
         "enquadramento": "Art.9 V Res.5867/25",
-        "tese": "Mesma tese de M06 — refutada.",
+        "tese": "Mesma tese de M06 â refutada.",
         "risco": "Alto",
-        "recomendacao": "Prazo vencido sem decisão."
+        "recomendacao": "Prazo vencido sem decisÃ£o."
       },
       "historico": [
         {
@@ -292,7 +292,7 @@
         },
         {
           "data": "2026-07-14",
-          "acao": "Jurídico refuta tese de operação fixa.",
+          "acao": "JurÃ­dico refuta tese de operaÃ§Ã£o fixa.",
           "autor": "Leonardo"
         }
       ]
@@ -302,22 +302,22 @@
       "auto": "CRGTF00015372026",
       "processo": "50501.460928/2026-14",
       "empresa": "41.879.012/0001-15",
-      "tipo": "Piso Mínimo de Frete",
-      "placa": "—",
+      "tipo": "Piso MÃ­nimo de Frete",
+      "placa": "â",
       "prazo": null,
       "prazo_protocolo": "",
       "num_protocolo": "",
-      "status": "recebida",
+      "status": "jur_docs",
       "valor": null,
       "responsavel": "",
       "motorista": "",
       "origem": "",
       "destino": "",
-      "obs": "Nova autuação — dados não levantados.",
-      "proxima_acao": "Mesa de Fretes registrar e enviar ao Jurídico",
+      "obs": "Nova autuaÃ§Ã£o â dados nÃ£o levantados.",
+      "proxima_acao": "Mesa de Fretes registrar e enviar ao JurÃ­dico",
       "proxima_acao_data": "2026-08-12",
       "ano": 2026,
-      "ultima_mov": "2026-08-04",
+      "ultima_mov": "2026-08-13",
       "checklist": {},
       "parecer": {
         "enquadramento": "",
@@ -330,6 +330,11 @@
           "data": "2026-08-04",
           "acao": "Multa identificada no lote de consulta semanal.",
           "autor": "Tales"
+        },
+        {
+          "data": "2026-08-13",
+          "acao": "Movido para \"Jurídico — levantando docs\" via Kanban.",
+          "autor": "Você"
         }
       ]
     },
@@ -339,7 +344,7 @@
       "processo": "50501.370023/2024-91",
       "empresa": "03.447.983/0001-05",
       "tipo": "Excesso de Peso",
-      "placa": "—",
+      "placa": "â",
       "prazo": null,
       "prazo_protocolo": "",
       "num_protocolo": "",
@@ -349,7 +354,7 @@
       "motorista": "",
       "origem": "",
       "destino": "",
-      "obs": "2024 — status não confirmado.",
+      "obs": "2024 â status nÃ£o confirmado.",
       "proxima_acao": "",
       "proxima_acao_data": "",
       "ano": 2024,
@@ -368,7 +373,7 @@
       "auto": "FELTF00012282025",
       "processo": "50501.638184/2025-79",
       "empresa": "03.447.983/0009-54",
-      "tipo": "Piso Mínimo de Frete",
+      "tipo": "Piso MÃ­nimo de Frete",
       "placa": "FNE4H04 / BTA0D88",
       "prazo": "2026-03-09",
       "prazo_protocolo": "",
@@ -379,45 +384,45 @@
       "motorista": "",
       "origem": "Manaus, AM",
       "destino": "Ipojuca, PE",
-      "obs": "PRAZO PERDIDO — e-mail ANTT desativado. R$10.500 de exposição.",
-      "proxima_acao": "Confirmar correção do e-mail junto à ANTT",
+      "obs": "PRAZO PERDIDO â e-mail ANTT desativado. R$10.500 de exposiÃ§Ã£o.",
+      "proxima_acao": "Confirmar correÃ§Ã£o do e-mail junto Ã  ANTT",
       "proxima_acao_data": "2026-08-15",
       "ano": 2025,
       "ultima_mov": "2026-03-31",
       "checklist": {
-        "Auto de infração (PDF)": true,
+        "Auto de infraÃ§Ã£o (PDF)": true,
         "CT-e ou CIOT": true,
         "MDF-e": true,
         "Comprovante de pagamento do frete": true,
         "Manifesto de carga": false,
-        "Contrato com transportador (se aplicável)": true,
-        "Certificado de Desembaraço (DTC) — operações portuárias": false
+        "Contrato com transportador (se aplicÃ¡vel)": true,
+        "Certificado de DesembaraÃ§o (DTC) â operaÃ§Ãµes portuÃ¡rias": false
       },
       "parecer": {
-        "enquadramento": "Art.9 I Res.5867/20 — frete abaixo do piso mínimo (AM→PE).",
+        "enquadramento": "Art.9 I Res.5867/20 â frete abaixo do piso mÃ­nimo (AMâPE).",
         "tese": "Levantamento indicou piso R$33.984,26 vs frete pago R$16.240,51.",
-        "risco": "Máximo — prazo perdido por falha de cadastro de e-mail.",
+        "risco": "MÃ¡ximo â prazo perdido por falha de cadastro de e-mail.",
         "recomendacao": "Pagamento"
       },
       "historico": [
         {
           "data": "2026-02-25",
-          "acao": "Notificação recebida em e-mail desativado.",
+          "acao": "NotificaÃ§Ã£o recebida em e-mail desativado.",
           "autor": ""
         },
         {
           "data": "2026-03-20",
-          "acao": "Multa identificada — prazo já vencido.",
+          "acao": "Multa identificada â prazo jÃ¡ vencido.",
           "autor": "Tales"
         },
         {
           "data": "2026-03-30",
-          "acao": "Jurídico confirma: prazo perdido por falha de cadastro.",
+          "acao": "JurÃ­dico confirma: prazo perdido por falha de cadastro.",
           "autor": "Tattianna"
         },
         {
           "data": "2026-03-31",
-          "acao": "Eduardo solicita correção imediata do cadastro.",
+          "acao": "Eduardo solicita correÃ§Ã£o imediata do cadastro.",
           "autor": "Eduardo"
         }
       ]
@@ -427,8 +432,8 @@
       "auto": "FELVP00102272024",
       "processo": "50501.566235/2024-72",
       "empresa": "03.447.983/0009-54",
-      "tipo": "Vale Pedágio",
-      "placa": "—",
+      "tipo": "Vale PedÃ¡gio",
+      "placa": "â",
       "prazo": null,
       "prazo_protocolo": "",
       "num_protocolo": "",
@@ -438,7 +443,7 @@
       "motorista": "",
       "origem": "",
       "destino": "",
-      "obs": "2024 — status não confirmado.",
+      "obs": "2024 â status nÃ£o confirmado.",
       "proxima_acao": "",
       "proxima_acao_data": "",
       "ano": 2024,
@@ -457,7 +462,7 @@
       "auto": "FELVP00550392026",
       "processo": "50501.436567/2026-95",
       "empresa": "03.447.983/0009-54",
-      "tipo": "Vale Pedágio",
+      "tipo": "Vale PedÃ¡gio",
       "placa": "DWE9A31",
       "prazo": "2026-08-10",
       "prazo_protocolo": "2026-07-31",
@@ -469,27 +474,27 @@
       "origem": "Marituba, PA",
       "destino": "Barueri, SP",
       "obs": "Prazo ontem. Sem tratativa documentada. Verificar protocolo urgente.",
-      "proxima_acao": "Gestão decidir: recorrer ou pagar",
+      "proxima_acao": "GestÃ£o decidir: recorrer ou pagar",
       "proxima_acao_data": "2026-08-12",
       "ano": 2026,
       "ultima_mov": "2026-07-14",
       "checklist": {
-        "Auto de infração (PDF)": true,
+        "Auto de infraÃ§Ã£o (PDF)": true,
         "MDF-e": true,
-        "Comprovante de pagamento do vale-pedágio": false,
+        "Comprovante de pagamento do vale-pedÃ¡gio": false,
         "CT-e": true,
         "Manifesto de carga": false
       },
       "parecer": {
-        "enquadramento": "Art.23 I Res.6024/23 — vale-pedágio obrigatório não pago.",
-        "tese": "Verificar comprovação de pagamento do vale-pedágio pelo contratante.",
-        "risco": "Médio-alto — documentação de pagamento não localizada.",
-        "recomendacao": "Aguardando análise"
+        "enquadramento": "Art.23 I Res.6024/23 â vale-pedÃ¡gio obrigatÃ³rio nÃ£o pago.",
+        "tese": "Verificar comprovaÃ§Ã£o de pagamento do vale-pedÃ¡gio pelo contratante.",
+        "risco": "MÃ©dio-alto â documentaÃ§Ã£o de pagamento nÃ£o localizada.",
+        "recomendacao": "Aguardando anÃ¡lise"
       },
       "historico": [
         {
           "data": "2026-07-14",
-          "acao": "Multa encaminhada ao Jurídico.",
+          "acao": "Multa encaminhada ao JurÃ­dico.",
           "autor": "Leonardo"
         }
       ]
@@ -500,7 +505,7 @@
       "processo": "50530.301837/2019-71",
       "empresa": "03.447.983/0009-54",
       "tipo": "PEF",
-      "placa": "—",
+      "placa": "â",
       "prazo": null,
       "prazo_protocolo": "",
       "num_protocolo": "",
@@ -530,7 +535,7 @@
       "processo": "50530.301835/2019-82",
       "empresa": "03.447.983/0009-54",
       "tipo": "RNTRC",
-      "placa": "—",
+      "placa": "â",
       "prazo": null,
       "prazo_protocolo": "",
       "num_protocolo": "",
@@ -559,8 +564,8 @@
       "auto": "CRGTF00048722019",
       "processo": "50530.301834/2019-38",
       "empresa": "03.447.983/0009-54",
-      "tipo": "Piso Mínimo de Frete",
-      "placa": "—",
+      "tipo": "Piso MÃ­nimo de Frete",
+      "placa": "â",
       "prazo": null,
       "prazo_protocolo": "",
       "num_protocolo": "",
@@ -589,8 +594,8 @@
       "auto": "CRGTF00048762019",
       "processo": "50530.301841/2019-30",
       "empresa": "03.447.983/0009-54",
-      "tipo": "Piso Mínimo de Frete",
-      "placa": "—",
+      "tipo": "Piso MÃ­nimo de Frete",
+      "placa": "â",
       "prazo": null,
       "prazo_protocolo": "",
       "num_protocolo": "",
@@ -619,8 +624,8 @@
       "auto": "CRGTF00051972019",
       "processo": "50530.302149/2019-29",
       "empresa": "03.447.983/0009-54",
-      "tipo": "Piso Mínimo de Frete",
-      "placa": "—",
+      "tipo": "Piso MÃ­nimo de Frete",
+      "placa": "â",
       "prazo": null,
       "prazo_protocolo": "",
       "num_protocolo": "",
@@ -649,8 +654,8 @@
       "auto": "CRGTF00100422019",
       "processo": "50530.304712/2019-01",
       "empresa": "03.447.983/0009-54",
-      "tipo": "Piso Mínimo de Frete",
-      "placa": "—",
+      "tipo": "Piso MÃ­nimo de Frete",
+      "placa": "â",
       "prazo": null,
       "prazo_protocolo": "",
       "num_protocolo": "",
@@ -680,7 +685,7 @@
       "processo": "50510.000917/2020-84",
       "empresa": "03.447.983/0009-54",
       "tipo": "Excesso de Peso",
-      "placa": "—",
+      "placa": "â",
       "prazo": null,
       "prazo_protocolo": "",
       "num_protocolo": "",
@@ -705,6 +710,6 @@
       "historico": []
     }
   ],
-  "updated_at": "2026-08-11T00:00:00Z",
-  "updated_by": "sistema"
+  "updated_at": "2026-08-13T20:49:07.423Z",
+  "updated_by": "usuario"
 }
