@@ -127,7 +127,7 @@
       "prazo": null,
       "prazo_protocolo": "",
       "num_protocolo": "",
-      "status": "jur_docs",
+      "status": "aguard_evid",
       "valor": null,
       "responsavel": "",
       "motorista": "",
@@ -150,6 +150,11 @@
           "data": "2026-08-04",
           "acao": "Multa identificada no lote de consulta semanal.",
           "autor": "Tales"
+        },
+        {
+          "data": "2026-08-13",
+          "acao": "Atualizado via edição rápida.",
+          "autor": "Você"
         },
         {
           "data": "2026-08-13",
@@ -720,6 +725,6 @@
       "historico": []
     }
   ],
-  "updated_at": "2026-08-13T20:50:41.661Z",
+  "updated_at": "2026-08-13T20:55:43.702Z",
   "updated_by": "usuario"
 }
