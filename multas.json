@@ -123,7 +123,7 @@
       "processo": "50501.445762/2026-14",
       "empresa": "26.295.146/0006-00",
       "tipo": "Piso MÃÂ­nimo de Frete",
-      "placa": "Ã¢ÂÂ",
+      "placa": "",
       "prazo": null,
       "prazo_protocolo": "",
       "num_protocolo": "",
@@ -164,6 +164,11 @@
         {
           "data": "2026-08-13",
           "acao": "Atualizado via edição rápida.",
+          "autor": "Você"
+        },
+        {
+          "data": "2026-08-13",
+          "acao": "Multa atualizada.",
           "autor": "Você"
         }
       ]
@@ -730,6 +735,6 @@
       "historico": []
     }
   ],
-  "updated_at": "2026-08-13T20:55:55.277Z",
+  "updated_at": "2026-08-13T20:59:08.509Z",
   "updated_by": "usuario"
 }
