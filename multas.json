@@ -314,7 +314,7 @@
       "origem": "",
       "destino": "",
       "obs": "Nova autuaÃ§Ã£o â dados nÃ£o levantados.",
-      "proxima_acao": "Mesa de Fretes registrar e enviar ao JurÃ­dico",
+      "proxima_acao": "Jurídico baixar auto e confirmar prazo",
       "proxima_acao_data": "2026-08-12",
       "ano": 2026,
       "ultima_mov": "2026-08-13",
@@ -334,6 +334,11 @@
         {
           "data": "2026-08-13",
           "acao": "Movido para \"Jurídico — levantando docs\" via Kanban.",
+          "autor": "Você"
+        },
+        {
+          "data": "2026-08-13",
+          "acao": "Atualizado via edição rápida.",
           "autor": "Você"
         }
       ]
@@ -710,6 +715,6 @@
       "historico": []
     }
   ],
-  "updated_at": "2026-08-13T20:49:07.423Z",
+  "updated_at": "2026-08-13T20:49:50.161Z",
   "updated_by": "usuario"
 }
