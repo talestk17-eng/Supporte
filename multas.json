@@ -227,6 +227,11 @@
           "data": "2026-08-25",
           "acao": "Dados atualizados via drawer (detalhes).",
           "autor": "Você"
+        },
+        {
+          "data": "2026-08-25",
+          "acao": "Dados atualizados via drawer (detalhes).",
+          "autor": "Você"
         }
       ]
     },
@@ -756,6 +761,6 @@
       "historico": []
     }
   ],
-  "updated_at": "2026-08-25T15:28:26.274Z",
+  "updated_at": "2026-08-25T15:28:27.806Z",
   "updated_by": "usuario"
 }
