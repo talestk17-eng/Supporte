@@ -777,12 +777,17 @@
       "motorista": "",
       "origem": "",
       "destino": "",
-      "proxima_acao": "",
-      "proxima_acao_data": "",
+      "proxima_acao": "Enviar e-mail ao Jurídico para levantamento da documentação",
+      "proxima_acao_data": "2026-08-26",
       "historico": [
         {
           "data": "2026-08-25",
           "acao": "Multa registrada na base.",
+          "autor": "Você"
+        },
+        {
+          "data": "2026-08-25",
+          "acao": "Dados atualizados via drawer (detalhes).",
           "autor": "Você"
         }
       ],
@@ -798,6 +803,6 @@
       "ano": 2026
     }
   ],
-  "updated_at": "2026-08-25T15:30:32.725Z",
+  "updated_at": "2026-08-25T15:31:40.796Z",
   "updated_by": "usuario"
 }
