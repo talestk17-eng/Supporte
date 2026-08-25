@@ -101,13 +101,13 @@
       "valor": 550,
       "responsavel": "Tales",
       "motorista": "Macioni Jose de Oliveira",
-      "origem": "UberlÃÂ¢ndia, MG",
-      "destino": "SÃÂ£o Paulo, SP",
+      "origem": "Uberlândia, MG",
+      "destino": "São Paulo, SP",
       "obs": "Prazo vencido sem defesa. Confirmar pagamento.",
       "proxima_acao": "Confirmar pagamento e encerrar formalmente",
       "proxima_acao_data": "2026-08-20",
       "ano": 2026,
-      "ultima_mov": "2026-05-05",
+      "ultima_mov": "2026-08-25",
       "checklist": {},
       "parecer": {
         "enquadramento": "Art.9 I Res.5867/20 Ã¢ÂÂ frete pago abaixo do piso mÃÂ­nimo calculado para a rota.",
@@ -125,6 +125,11 @@
           "data": "2026-05-05",
           "acao": "JurÃÂ­dico confirma: sem fundamento. Prazo vencido.",
           "autor": "Tattianna"
+        },
+        {
+          "data": "2026-08-25",
+          "acao": "Multa atualizada.",
+          "autor": "Você"
         }
       ]
     },
@@ -746,6 +751,6 @@
       "historico": []
     }
   ],
-  "updated_at": "2026-08-25T15:26:18.877Z",
+  "updated_at": "2026-08-25T15:27:07.744Z",
   "updated_by": "usuario"
 }
