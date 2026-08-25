@@ -206,10 +206,10 @@
       "origem": "",
       "destino": "",
       "obs": "Dados incompletos Ã¢ÂÂ levantar prazo junto ao JurÃÂ­dico.",
-      "proxima_acao": "JurÃÂ­dico baixar auto e confirmar prazo",
+      "proxima_acao": "Juridico baixar auto e confirmar prazo",
       "proxima_acao_data": "2026-08-14",
       "ano": 2026,
-      "ultima_mov": "2026-08-04",
+      "ultima_mov": "2026-08-25",
       "checklist": {},
       "parecer": {
         "enquadramento": "",
@@ -222,6 +222,11 @@
           "data": "2026-08-04",
           "acao": "Multa identificada no lote de consulta semanal.",
           "autor": "Tales"
+        },
+        {
+          "data": "2026-08-25",
+          "acao": "Dados atualizados via drawer (detalhes).",
+          "autor": "Você"
         }
       ]
     },
@@ -751,6 +756,6 @@
       "historico": []
     }
   ],
-  "updated_at": "2026-08-25T15:27:07.744Z",
+  "updated_at": "2026-08-25T15:28:26.274Z",
   "updated_by": "usuario"
 }
