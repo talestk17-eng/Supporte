@@ -16,11 +16,11 @@
       "motorista": "Jose Noel da Silva Campos",
       "origem": "Ipojuca, PE",
       "destino": "Fortaleza, CE",
-      "obs": "Prazo vencido 68 dias antes da detecÃÂ§ÃÂ£o interna.",
+      "obs": "Prazo vencido 68 dias antes da detecÃÂ§ÃÂ£o interna.\n\nConsulta dia 25/08/2026: Permanece no site oficial da ANTT",
       "proxima_acao": "",
       "proxima_acao_data": "",
-      "ano": 2025,
-      "ultima_mov": "2026-05-05",
+      "ano": 2026,
+      "ultima_mov": "2026-08-25",
       "checklist": {},
       "parecer": {
         "enquadramento": "",
@@ -43,6 +43,11 @@
           "data": "2026-05-05",
           "acao": "JurÃÂ­dico conclui: sem fundamento para defesa. Prazo vencido em 04/05/2026.",
           "autor": "Tattianna"
+        },
+        {
+          "data": "2026-08-25",
+          "acao": "Multa atualizada.",
+          "autor": "Você"
         }
       ]
     },
@@ -735,6 +740,6 @@
       "historico": []
     }
   ],
-  "updated_at": "2026-08-13T20:59:08.509Z",
+  "updated_at": "2026-08-25T15:23:52.863Z",
   "updated_by": "usuario"
 }
