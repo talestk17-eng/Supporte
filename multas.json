@@ -57,7 +57,7 @@
       "processo": "50500.247149/2022-10",
       "empresa": "26.295.146/0004-48",
       "tipo": "Vale PedÃÂ¡gio",
-      "placa": "Ã¢ÂÂ",
+      "placa": "XXXXX",
       "prazo": null,
       "prazo_protocolo": "",
       "num_protocolo": "",
@@ -70,8 +70,8 @@
       "obs": "2022 Ã¢ÂÂ status nÃÂ£o confirmado.",
       "proxima_acao": "",
       "proxima_acao_data": "",
-      "ano": 2022,
-      "ultima_mov": "2022-01-01",
+      "ano": 2026,
+      "ultima_mov": "2026-08-25",
       "checklist": {},
       "parecer": {
         "enquadramento": "",
@@ -79,7 +79,13 @@
         "risco": "",
         "recomendacao": ""
       },
-      "historico": []
+      "historico": [
+        {
+          "data": "2026-08-25",
+          "acao": "Multa atualizada.",
+          "autor": "Você"
+        }
+      ]
     },
     {
       "id": "M03",
@@ -740,6 +746,6 @@
       "historico": []
     }
   ],
-  "updated_at": "2026-08-25T15:23:52.863Z",
+  "updated_at": "2026-08-25T15:26:18.877Z",
   "updated_by": "usuario"
 }
