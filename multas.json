@@ -844,8 +844,45 @@
       },
       "anexos": [],
       "ano": 2026
+    },
+    {
+      "id": "M22",
+      "auto": "CRGTF00012512026",
+      "processo": "50501.395429/2026-49",
+      "empresa": "41.879.012/0001-15",
+      "tipo": "Piso Mínimo de Frete",
+      "placa": "",
+      "prazo": "",
+      "prazo_protocolo": "",
+      "num_protocolo": "",
+      "status": "recebida",
+      "valor": "",
+      "obs": "",
+      "responsavel": "",
+      "motorista": "",
+      "origem": "",
+      "destino": "",
+      "proxima_acao": "Enviar e-mail ao jurídico para levantamento de documentação",
+      "proxima_acao_data": "",
+      "historico": [
+        {
+          "data": "2026-08-26",
+          "acao": "Multa registrada na base.",
+          "autor": "Você"
+        }
+      ],
+      "ultima_mov": "2026-08-26",
+      "checklist": {},
+      "parecer": {
+        "enquadramento": "",
+        "tese": "",
+        "risco": "",
+        "recomendacao": ""
+      },
+      "anexos": [],
+      "ano": 2026
     }
   ],
-  "updated_at": "2026-08-26T13:21:23.350Z",
+  "updated_at": "2026-08-26T13:28:38.763Z",
   "updated_by": "usuario"
 }
