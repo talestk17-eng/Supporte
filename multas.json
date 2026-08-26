@@ -395,7 +395,7 @@
       "processo": "50501.370023/2024-91",
       "empresa": "03.447.983/0001-05",
       "tipo": "Excesso de Peso",
-      "placa": "Ã¢ÂÂ",
+      "placa": "",
       "prazo": null,
       "prazo_protocolo": "",
       "num_protocolo": "",
@@ -408,8 +408,8 @@
       "obs": "2024 Ã¢ÂÂ status nÃÂ£o confirmado.",
       "proxima_acao": "",
       "proxima_acao_data": "",
-      "ano": 2024,
-      "ultima_mov": "2024-01-01",
+      "ano": 2026,
+      "ultima_mov": "2026-08-26",
       "checklist": {},
       "parecer": {
         "enquadramento": "",
@@ -417,7 +417,13 @@
         "risco": "",
         "recomendacao": ""
       },
-      "historico": []
+      "historico": [
+        {
+          "data": "2026-08-26",
+          "acao": "Multa atualizada.",
+          "autor": "Você"
+        }
+      ]
     },
     {
       "id": "M10",
@@ -803,6 +809,6 @@
       "ano": 2026
     }
   ],
-  "updated_at": "2026-08-25T15:31:40.796Z",
+  "updated_at": "2026-08-26T13:18:05.439Z",
   "updated_by": "usuario"
 }
