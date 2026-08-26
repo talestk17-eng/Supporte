@@ -138,7 +138,7 @@
       "auto": "FELTF02088352026",
       "processo": "50501.445762/2026-14",
       "empresa": "26.295.146/0006-00",
-      "tipo": "Piso MÃÂ­nimo de Frete",
+      "tipo": "Piso Mínimo de Frete",
       "placa": "",
       "prazo": null,
       "prazo_protocolo": "",
@@ -184,6 +184,11 @@
         },
         {
           "data": "2026-08-13",
+          "acao": "Multa atualizada.",
+          "autor": "Você"
+        },
+        {
+          "data": "2026-08-26",
           "acao": "Multa atualizada.",
           "autor": "Você"
         },
@@ -898,6 +903,6 @@
       "ano": 2026
     }
   ],
-  "updated_at": "2026-08-26T13:31:49.498Z",
+  "updated_at": "2026-08-26T13:32:07.324Z",
   "updated_by": "usuario"
 }
