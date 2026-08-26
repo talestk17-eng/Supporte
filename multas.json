@@ -895,19 +895,24 @@
       "prazo": "",
       "prazo_protocolo": "",
       "num_protocolo": "",
-      "status": "recebida",
+      "status": "jur_docs",
       "valor": "",
       "obs": "",
       "responsavel": "",
       "motorista": "",
       "origem": "",
       "destino": "",
-      "proxima_acao": "Enviar e-mail ao jurídico para levantamento de documentação",
+      "proxima_acao": "Jurídico baixar auto completo no portal ANTT",
       "proxima_acao_data": "",
       "historico": [
         {
           "data": "2026-08-26",
           "acao": "Multa registrada na base.",
+          "autor": "Você"
+        },
+        {
+          "data": "2026-08-26",
+          "acao": "Multa atualizada.",
           "autor": "Você"
         }
       ],
@@ -923,6 +928,6 @@
       "ano": 2026
     }
   ],
-  "updated_at": "2026-08-26T13:34:36.978Z",
+  "updated_at": "2026-08-26T13:34:56.529Z",
   "updated_by": "usuario"
 }
