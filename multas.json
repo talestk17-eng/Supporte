@@ -808,7 +808,7 @@
       "motorista": "",
       "origem": "",
       "destino": "",
-      "proxima_acao": "Enviar e-mail ao Jurídico para levantamento da documentação",
+      "proxima_acao": "Jurídico baixar auto completo no portal ANTT",
       "proxima_acao_data": "2026-08-26",
       "historico": [
         {
@@ -820,9 +820,14 @@
           "data": "2026-08-25",
           "acao": "Dados atualizados via drawer (detalhes).",
           "autor": "Você"
+        },
+        {
+          "data": "2026-08-26",
+          "acao": "Multa atualizada.",
+          "autor": "Você"
         }
       ],
-      "ultima_mov": "2026-08-25",
+      "ultima_mov": "2026-08-26",
       "checklist": {},
       "parecer": {
         "enquadramento": "",
@@ -908,6 +913,6 @@
       "ano": 2026
     }
   ],
-  "updated_at": "2026-08-26T13:32:59.926Z",
+  "updated_at": "2026-08-26T13:33:51.535Z",
   "updated_by": "usuario"
 }
