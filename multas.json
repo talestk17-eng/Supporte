@@ -931,8 +931,45 @@
       },
       "anexos": [],
       "ano": 2026
+    },
+    {
+      "id": "M23",
+      "auto": "FELTF03804542026",
+      "processo": "50501.718531/2026-27",
+      "empresa": "26.295.146/0004-48",
+      "tipo": "Piso Mínimo de Frete",
+      "placa": "",
+      "prazo": "",
+      "prazo_protocolo": "",
+      "num_protocolo": "",
+      "status": "recebida",
+      "valor": "",
+      "obs": "",
+      "responsavel": "",
+      "motorista": "",
+      "origem": "",
+      "destino": "",
+      "proxima_acao": "",
+      "proxima_acao_data": "",
+      "historico": [
+        {
+          "data": "2026-09-21",
+          "acao": "Multa registrada na base.",
+          "autor": "Você"
+        }
+      ],
+      "ultima_mov": "2026-09-21",
+      "checklist": {},
+      "parecer": {
+        "enquadramento": "",
+        "tese": "",
+        "risco": "",
+        "recomendacao": ""
+      },
+      "anexos": [],
+      "ano": 2026
     }
   ],
-  "updated_at": "2026-09-21T13:51:43.903Z",
+  "updated_at": "2026-09-21T14:07:04.525Z",
   "updated_by": "usuario"
 }
