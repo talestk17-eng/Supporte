@@ -435,11 +435,11 @@
       "motorista": "",
       "origem": "",
       "destino": "",
-      "obs": "2024 Ã¢ÂÂ status nÃÂ£o confirmado.",
+      "obs": "2024 Ã¢ÂÂ status nÃÂ£o confirmado.\n\nConsulta dia 21/09/2026 - Permanece",
       "proxima_acao": "",
       "proxima_acao_data": "",
       "ano": 2026,
-      "ultima_mov": "2026-08-26",
+      "ultima_mov": "2026-09-21",
       "checklist": {},
       "parecer": {
         "enquadramento": "",
@@ -450,6 +450,11 @@
       "historico": [
         {
           "data": "2026-08-26",
+          "acao": "Multa atualizada.",
+          "autor": "Você"
+        },
+        {
+          "data": "2026-09-21",
           "acao": "Multa atualizada.",
           "autor": "Você"
         }
@@ -970,6 +975,6 @@
       "ano": 2026
     }
   ],
-  "updated_at": "2026-09-21T14:07:04.525Z",
+  "updated_at": "2026-09-21T14:11:01.909Z",
   "updated_by": "usuario"
 }
