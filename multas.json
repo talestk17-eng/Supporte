@@ -947,7 +947,7 @@
       "prazo": "",
       "prazo_protocolo": "",
       "num_protocolo": "",
-      "status": "recebida",
+      "status": "jur_docs",
       "valor": "",
       "obs": "",
       "responsavel": "",
@@ -960,6 +960,11 @@
         {
           "data": "2026-09-21",
           "acao": "Multa registrada na base.",
+          "autor": "Você"
+        },
+        {
+          "data": "2026-09-21",
+          "acao": "Multa atualizada.",
           "autor": "Você"
         }
       ],
@@ -975,6 +980,6 @@
       "ano": 2026
     }
   ],
-  "updated_at": "2026-09-21T14:11:01.909Z",
+  "updated_at": "2026-09-21T14:23:39.130Z",
   "updated_by": "usuario"
 }
