@@ -1008,6 +1008,11 @@
           "data": "2026-10-01",
           "acao": "Dados atualizados via drawer (detalhes).",
           "autor": "Você"
+        },
+        {
+          "data": "2026-10-01",
+          "acao": "Dados atualizados via drawer (detalhes).",
+          "autor": "Você"
         }
       ],
       "ultima_mov": "2026-10-01",
@@ -1101,6 +1106,6 @@
       "ano": 2026
     }
   ],
-  "updated_at": "2026-10-01T17:36:48.798Z",
+  "updated_at": "2026-10-01T17:36:58.589Z",
   "updated_by": "usuario"
 }
