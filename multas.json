@@ -1143,80 +1143,6 @@
       "ano": 2026
     },
     {
-      "id": "M29",
-      "auto": "FELTF03587952026",
-      "processo": "50501.677226/2026-78",
-      "empresa": "26.295.146/0004-48",
-      "tipo": "Piso Mínimo de Frete",
-      "placa": "",
-      "prazo": "",
-      "prazo_protocolo": "",
-      "num_protocolo": "",
-      "status": "recebida",
-      "valor": "",
-      "obs": "",
-      "responsavel": "",
-      "motorista": "",
-      "origem": "",
-      "destino": "",
-      "proxima_acao": "",
-      "proxima_acao_data": "2026-10-20",
-      "historico": [
-        {
-          "data": "2026-10-20",
-          "acao": "Multa registrada na base.",
-          "autor": "Você"
-        }
-      ],
-      "ultima_mov": "2026-10-20",
-      "checklist": {},
-      "parecer": {
-        "enquadramento": "",
-        "tese": "",
-        "risco": "",
-        "recomendacao": ""
-      },
-      "anexos": [],
-      "ano": 2026
-    },
-    {
-      "id": "M29",
-      "auto": "FELVP01297192026",
-      "processo": "50501.790346/2026-60",
-      "empresa": "03.447.983/0001-05",
-      "tipo": "Vale Pedágio",
-      "placa": "",
-      "prazo": "",
-      "prazo_protocolo": "",
-      "num_protocolo": "",
-      "status": "recebida",
-      "valor": "",
-      "obs": "",
-      "responsavel": "",
-      "motorista": "",
-      "origem": "",
-      "destino": "",
-      "proxima_acao": "",
-      "proxima_acao_data": "2026-10-20",
-      "historico": [
-        {
-          "data": "2026-10-20",
-          "acao": "Multa registrada na base.",
-          "autor": "Você"
-        }
-      ],
-      "ultima_mov": "2026-10-20",
-      "checklist": {},
-      "parecer": {
-        "enquadramento": "",
-        "tese": "",
-        "risco": "",
-        "recomendacao": ""
-      },
-      "anexos": [],
-      "ano": 2026
-    },
-    {
       "id": "M30",
       "auto": "FELVP00886032026",
       "processo": "50501.590868/2026-63",
@@ -1513,6 +1439,6 @@
       "ano": 2026
     }
   ],
-  "updated_at": "2026-10-20T14:49:50.592Z",
+  "updated_at": "2026-10-20T14:53:37.632Z",
   "updated_by": "usuario"
 }
