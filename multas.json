@@ -199,7 +199,7 @@
       "prazo": "2026-08-10",
       "prazo_protocolo": "2026-07-31",
       "num_protocolo": "",
-      "status": "juridico",
+      "status": "encerrada",
       "valor": 550,
       "responsavel": "Erick",
       "motorista": "Mateus Silva de Andrade",
@@ -209,7 +209,7 @@
       "proxima_acao": "Gestão decidir: recorrer ou pagar",
       "proxima_acao_data": "2026-08-12",
       "ano": 2026,
-      "ultima_mov": "2026-07-14",
+      "ultima_mov": "2026-10-20",
       "checklist": {
         "Auto de infração (PDF)": true,
         "CT-e ou CIOT": true,
@@ -236,6 +236,11 @@
           "data": "2026-07-14",
           "acao": "Jurídico refuta formalmente a tese de não incidência.",
           "autor": "Leonardo"
+        },
+        {
+          "data": "2026-10-20",
+          "acao": "Movido para \"Encerrada\" via Kanban.",
+          "autor": "Você"
         }
       ]
     },
@@ -1275,6 +1280,6 @@
       ]
     }
   ],
-  "updated_at": "2026-10-20T00:00:00Z",
-  "updated_by": "correcao-encoding"
+  "updated_at": "2026-10-20T19:11:54.602Z",
+  "updated_by": "usuario"
 }
