@@ -1437,8 +1437,45 @@
       },
       "anexos": [],
       "ano": 2026
+    },
+    {
+      "id": "M36",
+      "auto": "FELVP01069542026",
+      "processo": "50501.662184/2026-71",
+      "empresa": "03.447.983/0009-54",
+      "tipo": "Vale Pedágio",
+      "placa": "",
+      "prazo": "",
+      "prazo_protocolo": "",
+      "num_protocolo": "",
+      "status": "recebida",
+      "valor": "",
+      "obs": "",
+      "responsavel": "",
+      "motorista": "",
+      "origem": "",
+      "destino": "",
+      "proxima_acao": "",
+      "proxima_acao_data": "",
+      "historico": [
+        {
+          "data": "2026-10-20",
+          "acao": "Multa registrada na base.",
+          "autor": "Você"
+        }
+      ],
+      "ultima_mov": "2026-10-20",
+      "checklist": {},
+      "parecer": {
+        "enquadramento": "",
+        "tese": "",
+        "risco": "",
+        "recomendacao": ""
+      },
+      "anexos": [],
+      "ano": 2026
     }
   ],
-  "updated_at": "2026-10-20T14:48:52.905Z",
+  "updated_at": "2026-10-20T14:49:23.396Z",
   "updated_by": "usuario"
 }
