@@ -959,7 +959,7 @@
       "prazo": null,
       "prazo_protocolo": "",
       "num_protocolo": "",
-      "status": "recebida",
+      "status": "jur_docs",
       "valor": null,
       "responsavel": "",
       "motorista": "",
@@ -983,6 +983,11 @@
           "data": "2026-10-20",
           "acao": "Multa identificada na consulta ANTT e inserida na base.",
           "autor": "Sistema"
+        },
+        {
+          "data": "2026-10-20",
+          "acao": "Movido para \"Jurídico — levantando docs\" via Kanban.",
+          "autor": "Você"
         }
       ]
     },
@@ -1320,6 +1325,6 @@
       ]
     }
   ],
-  "updated_at": "2026-10-20T19:47:30.560Z",
+  "updated_at": "2026-10-20T19:47:31.877Z",
   "updated_by": "usuario"
 }
