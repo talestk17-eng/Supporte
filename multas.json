@@ -296,7 +296,7 @@
       "prazo": null,
       "prazo_protocolo": "",
       "num_protocolo": "",
-      "status": "recebida",
+      "status": "jur_docs",
       "valor": null,
       "responsavel": "",
       "motorista": "",
@@ -306,7 +306,7 @@
       "proxima_acao": "Mesa de Fretes registrar e enviar ao Jurídico",
       "proxima_acao_data": "2026-08-12",
       "ano": 2026,
-      "ultima_mov": "2026-08-04",
+      "ultima_mov": "2026-10-20",
       "checklist": {},
       "parecer": {
         "enquadramento": "",
@@ -320,6 +320,11 @@
           "data": "2026-08-04",
           "acao": "Multa identificada no lote de consulta semanal.",
           "autor": "Tales"
+        },
+        {
+          "data": "2026-10-20",
+          "acao": "Movido para \"Jurídico — levantando docs\" via Kanban.",
+          "autor": "Você"
         }
       ]
     },
@@ -1285,6 +1290,6 @@
       ]
     }
   ],
-  "updated_at": "2026-10-20T19:12:28.309Z",
+  "updated_at": "2026-10-20T19:47:23.173Z",
   "updated_by": "usuario"
 }
